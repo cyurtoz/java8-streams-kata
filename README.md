@@ -1,0 +1,4 @@
+- Albums have songs.
+- Songs have name and durations.
+- An album has a band - the band that created the album.
+- A band has a name and keeps a reference to similar bands.
