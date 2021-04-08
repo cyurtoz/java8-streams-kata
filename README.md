@@ -1,3 +1,4 @@
+# Java8 Streams Kata
 - Albums have songs.
 - Songs have name and durations.
 - An album has a band - the band that created the album.
